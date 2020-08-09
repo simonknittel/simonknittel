@@ -1,4 +1,4 @@
-<img src="https://via.placeholder.com/1280x50">
+<img src="https://via.placeholder.com/854x50">
 
 | Skeletons | Projects | Tools |
 | --------- | -------- | ----- |
