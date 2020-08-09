@@ -1,3 +1,5 @@
+<img src="https://via.placeholder.com/1280x50">
+
 | Skeletons | Projects | Tools |
 | --------- | -------- | ----- |
 | [rest-api-skeleton](https://github.com/simonknittel/rest-api-skeleton) | [user-feedback](https://github.com/simonknittel/user-feedback) | [tp-tradfri](https://github.com/simonknittel/tp-tradfri) |
