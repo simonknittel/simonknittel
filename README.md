@@ -1,4 +1,4 @@
-![Finishing projects is for beginners](./banner.png)
+![Finishing projects is for beginners](https://github.com/simonknittel/simonknittel/blob/master/banner.png)
 
 <!--
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
